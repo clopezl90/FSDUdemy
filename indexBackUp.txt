@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cristian Personal Site</title>
+    <link rel="stylesheet" href="css/style.css">
+    
+</head>
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="./cristianpic.jpg" alt="Cristian picture"></td>
+            <td>
+                <h1>Cristian Herledy López</h1>
+                <p><em>Mechanical engineer with master degree in computational engineering</em> </p>
+                <p><em>I am a software engineer, I love reading and learning about programming</em></p>
+            </td>
+        </tr>
+    </table>
+
+
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li>
+            <p><em>I hold a bachelor degree in Mechanical Engineering.</em></p>
+        </li>
+        <li>
+            <p><em>Also, I hold a master degree in Mechanical Engineering with computational engineering emphasis </em>
+            </p>
+        </li>
+        <li>
+            <p><em>See my profile at <a href="https://www.linkedin.com/in/cristian-l%C3%B3pez-777a03134/"><strong> My
+                            linkedin profile </strong></a> </em>
+            </p>
+
+        </li>
+    </ul>
+    <hr>
+    <h3>Experience</h3>
+    <table cellspacing="10px">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Work</th>
+            </tr>
+
+        </thead>
+        <tbody>
+
+        </tbody>
+        <tr>
+            <td>2014-2017</td>
+            <td>R&D Coordinator</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+            <td>A/C Coordinator</td>
+        </tr>
+        <tr>
+            <td>2018-2021</td>
+            <td>R&D Coordinator</td>
+        </tr>
+        <tr>
+            <td>2021-2022</td>
+            <td>Developer</td>
+        </tr>
+
+    </table>
+    <hr>
+
+    <h3>Skills</h3>
+
+    <table cellspacing="10px">
+        <tr>
+            <td>
+                <table cellspacing="10px">
+                    <td>
+                        <tr>
+                            <td>HTML</td>
+                            <td>&#11088 &#11088 &#11088 &#11088</td>
+                        </tr>
+                        <tr>
+                            <td>CSS</td>
+                            <td>&#11088 &#11088 &#11088 &#11088</td>
+                        </tr>
+                        <tr>
+                            <td>JavaScript</td>
+                            <td>&#11088 &#11088 &#11088 &#11088</td>
+                        </tr>
+                        <tr>
+                            <td>Bootstrap</td>
+                            <td>&#11088 &#11088 &#11088</td>
+                        </tr>
+                        <tr>
+                            <td>React.js</td>
+                            <td>&#11088 &#11088 &#11088 &#11088</td>
+                        </tr>
+
+                    </td>
+
+                </table>
+            </td>
+            <td>
+                <table cellspacing="10px">
+                    <td>
+                        <tr>
+                            <td>C#</td>
+                            <td>&#11088 &#11088 &#11088 &#11088</td>
+                        </tr>
+                        <tr>
+                            <td>Unity</td>
+                            <td>&#11088 &#11088 &#11088 &#11088</td>
+                        </tr>
+                        <tr>
+                            <td>Flutter</td>
+                            <td>&#11088 &#11088 </td>
+                        </tr>
+                        <tr>
+                            <td>React Native</td>
+                            <td>&#11088 &#11088 </td>
+                        </tr>
+
+
+                    </td>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <hr>
+    <a href="contact.html">Contact me</a>
+    <hr>
+    <a href="inputs.html">Inputs</a>
+
+
+
+
+</body>
+
+</html>
