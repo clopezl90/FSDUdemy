@@ -1,0 +1,28 @@
+[
+    {
+        "_id": "647ea233692040499fa8f5d7",
+        "title": "REST",
+        "content": "REST is for representational"
+    },
+    {
+        "_id": "647ea518692040499fa8f5dd",
+        "title": "API",
+        "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+    },
+    {
+        "_id": "647ea52a692040499fa8f5de",
+        "title": "Bootstrap",
+        "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+    },
+    {
+        "_id": "647ea53d692040499fa8f5df",
+        "title": "DOM",
+        "content": "The Document Object Model is like an API for interacting with our HTML"
+    },
+    {
+        "_id": "648650950ef2cc3ee042e80b",
+        "title": "Jack Bauer",
+        "content": "Jack Bauer es un personaje ficticio y el protagonista de la serie de televisión 24.",
+        "__v": 0
+    }
+]
